@@ -72,3 +72,5 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/backup/window.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/backup/config.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  04.08.2025
