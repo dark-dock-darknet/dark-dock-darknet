@@ -83,4 +83,6 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 
 
 
-Update:  18.09.2025
+
+
+Update:  01.10.2025
